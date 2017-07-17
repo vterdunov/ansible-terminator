@@ -1,0 +1,8 @@
+galaxy_info:
+  author: Terdunov Vyacheslav
+  description: Ansible role that installs Terminator - terminal emulator.
+  license: MIT
+
+  galaxy_tags: []
+
+dependencies: []
