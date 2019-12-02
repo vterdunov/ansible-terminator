@@ -4,6 +4,7 @@
     repo: '{{ terminator_ppa_name }}'
     state: present
     update_cache: yes
+  when: not terminator_from_distro_repositories
 
 - name: Install Terminator
   apt:

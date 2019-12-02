@@ -1,2 +1,3 @@
 ---
+terminator_from_distro_repositories: true
 terminator_ppa_name: 'ppa:gnome-terminator/ppa'
